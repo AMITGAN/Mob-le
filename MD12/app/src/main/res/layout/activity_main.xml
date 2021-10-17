@@ -38,4 +38,5 @@
         android:layout_gravity="center"
         android:src="@drawable/riiiiick"
         android:background="#ffffff"/>
+
 </LinearLayout>

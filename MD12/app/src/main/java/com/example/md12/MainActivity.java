@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         mainBtn = (Button) findViewById(R.id.mainBtn);
         mainBtn2 = (Button) findViewById(R.id.mainBtn2);
         mainBtn3 = (Button) findViewById(R.id.mainBtn3);
-        mainImg = (ImageButton) findViewById(R.id.mainImg);
+        mainImg = (ImageButton) findViewById(R  .id.mainImg);
         mainBtn.setOnClickListener(clickListener);
         mainImg.setOnClickListener(clickListener4);
         mainBtn2.setOnClickListener(clickListener2);
