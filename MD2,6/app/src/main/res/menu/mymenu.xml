@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_lvl1"
+        android:orderInCategory="1"
+        android:title="Окно 1">
+    </item>
+    <item
+        android:id="@+id/menu_lvl2"
+        android:orderInCategory="2"
+        android:title="Окно 2">
+    </item>
+    <item
+        android:id="@+id/menu_lvl3"
+        android:orderInCategory="3"
+        android:title="Окно 3">
+    </item>
+    <item
+        android:id="@+id/menu_lvl4"
+        android:orderInCategory="4"
+        android:title="Окно 4">
+    </item>
+
+</menu>
