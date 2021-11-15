@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MD1,4</string>
+    <string name="hello">Hello</string>
+    <string name="delete">Удалить</string>
+    <string name="hint">A name</string>
+    <string name="button">Update The TextView</string>
+</resources>
