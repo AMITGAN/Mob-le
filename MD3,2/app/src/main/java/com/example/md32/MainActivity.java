@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     int dlColIndex = c.getColumnIndex("name");
                     int nameColIndex = c.getColumnIndex("mail");
                     do {
-                        job = job + "Date = " + c.getString(dlColIndex) + ", task = " + c.getString(nameColIndex) + "\n";
+                        job = job + "Date = " + c.getString(dlColIndex) + ", task    = " + c.getString(nameColIndex) + "\n";
                     }
                     while (c.moveToNext());
                     Text.setText(job);
